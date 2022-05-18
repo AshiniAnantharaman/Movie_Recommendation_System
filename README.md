@@ -99,7 +99,7 @@ If you have already installed Python 3.9 and are an advanced user, you can insta
 In Terminal, navigate to the respective directory where you want to clone this repository and run the following command. <br/>
 
    ```
-   git clone https://github.com/Praveen271195/Movie-Recommedation-System-DRAFT
+   git clone https://github.com/AshiniAnantharaman/Movie_Recommendation_System.git
    ```
 
 If you have forked this repository, use the following code but replace the [username] in the link with your git username.
